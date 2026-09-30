@@ -63,7 +63,7 @@ $ (d theta)/(d t) &=1/(sec^2 theta ) (y''x' - y'x'')/(x'^2)\
 &=1/(1 + tan^2 theta ) (y''x' - y'x'')/(x'^2)\
 &=1/(1 + (y'\/x')^2 ) (y''x' - y'x'')/(x'^2)\
 &=x'^2/(x'^2 + y'^2) (y''x' - y'x'')/(x'^2)\
-&=(y''x' - y'x'')/(x'^2) \
+&=(y''x' - y'x'')/(x'^2 + y'^2) \
  $
 
 Put $(d theta)/(d t)=(y''x' - y'x'')/(x'^2)$ and $(d s)/(d t)= sqrt(x'^2+y'^2)$ into curvature formula, $kappa = (d theta\/d t)/(d s\/d t)$
